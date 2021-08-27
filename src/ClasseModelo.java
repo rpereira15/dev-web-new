@@ -1,0 +1,2 @@
+public class ClasseModelo {
+}
